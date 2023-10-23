@@ -11,3 +11,4 @@ git log = check log
 git diff = check different
 git diff --staged = check different in staged
 git fetch = update change between head and origin
+git checkout -b name = created new branch
