@@ -6,4 +6,8 @@ git h = help
 
 git status = check status
 git add = unstage -> stage
-git commit = stage -> HEAD (Local Repo)
+git commit -m "message" = stage -> HEAD (Local Repo)
+git log = check log
+git diff = check different
+git diff --staged = check different in staged
+git fetch = update change between head and origin
